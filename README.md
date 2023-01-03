@@ -1,4 +1,4 @@
-# WORKSHOP Formulaire de saisie
+# WORKSHOP Créer un Formulaire de saisie avec APP SCRIPT
 
 ## Le but de ce Workshop :
 
