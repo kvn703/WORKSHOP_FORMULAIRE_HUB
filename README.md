@@ -12,7 +12,7 @@ Avoir à disposition un compte Google ou Microsoft pour faire ce Workshop.
 
 Aller sur https://docs.google.com/spreadsheets et crée une nouvelle feuille de calcul « INFO » et créé de colonne (Nom Prénom) en position A1 et B2 et en dessous mettre votre nom prénom.
 
-<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%201.png" width=300"/>
+<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%201.png" width="300"/>
  
 
 ## Étape 2 : Récupérer une donnée sur la feuille de calcul en utilisant la fonction GETRANGE
@@ -25,7 +25,7 @@ Une fois dessus, créer une fonction GetInfo() qui doit récupérer votre nom et
 
 Créer une fonction AddHoppyName() qui ajoute sur la ligne suivant « Le chat » « Hoppy »
 
-<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%203.png" width=300"/>
+<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%203.png" width="300"/>
 
 ## Étape 4 : Ajouter des données sur une ligne avec la fonction APPENDROW
 
@@ -44,7 +44,7 @@ Créer une fonction AddName(nom, prenom) qui prend en paramètre 2 chaines de ca
 1.	Pour créer un bouton, aller sur « Insertion »  « dessin »  dessiner votre dessin et appuyer sur « Enregistrer et fermer ».
 2.	Une fois fait, il va falloir mettre une action sur ce bouton. Lorsqu’on appuie sur ce bouton on veut que cela ajoute à la ligne suivante « Astek » et « APE ». Et donc associer une fonction à ce bouton pour qu’à chaque on clique dessus, cette action se passe.
 
-<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%206.png" width=300"/>
+<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%206.png" width="300"/>
 
 
 ## À VOUS DE JOUER MAINTENANT !
@@ -64,4 +64,4 @@ De plus, ajouter un bouton « Supprimer » qui devra supprimer via une recherche
 
 Voici un exemple de la mise en forme du Formulaire
 
-<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/EXEMPLE.png" width=300"/>      
+<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/EXEMPLE.png" width="300"/>      
