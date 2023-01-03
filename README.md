@@ -13,7 +13,7 @@ Avoir à disposition un compte Google ou Microsoft pour faire ce Workshop.
 Aller sur https://docs.google.com/spreadsheets et crée une nouvelle feuille de calcul « INFO » et créé de colonne (Nom Prénom) en position A1 et B2 et en dessous mettre votre nom prénom.
 
 ![alt text](https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%201.png)
-<img src="[ETAPE%201.jpg](https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%201.png)" width="200"/>
+<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%201.png" width="200"/>
  
 
 ## Étape 2 : Récupérer une donnée sur la feuille de calcul en utilisant la fonction GETRANGE
