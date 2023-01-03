@@ -44,7 +44,7 @@ Créer une fonction AddName(nom, prenom) qui prend en paramètre 2 chaines de ca
 1.	Pour créer un bouton, aller sur « Insertion »  « dessin »  dessiner votre dessin et appuyer sur « Enregistrer et fermer ».
 2.	Une fois fait, il va falloir mettre une action sur ce bouton. Lorsqu’on appuie sur ce bouton on veut que cela ajoute à la ligne suivante « Astek » et « APE ». Et donc associer une fonction à ce bouton pour qu’à chaque on clique dessus, cette action se passe.
 
- 
+![alt text](https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%206.png)
 
 
 ## À VOUS DE JOUER MAINTENANT !
