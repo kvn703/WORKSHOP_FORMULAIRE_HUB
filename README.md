@@ -19,7 +19,7 @@ Aller sur https://docs.google.com/spreadsheets et crée une nouvelle feuille de 
 
 Pour ouvrir un éditeur de texte, appuyer sur l’icône « Extensions » puis « Appscript ».
 
-<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/EDITEUR.png" width="300"/>
+<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/EDITEUR.png" width="500"/>
 
 Une fois dessus, créer une fonction GetInfo() qui doit récupérer votre nom et prénom depuis la feuille INFO et renvoie votre nom et prénom sur la console.
 
