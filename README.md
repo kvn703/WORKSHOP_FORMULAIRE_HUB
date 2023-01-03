@@ -25,7 +25,7 @@ Une fois dessus, créer une fonction GetInfo() qui doit récupérer votre nom et
 
 Créer une fonction AddHoppyName() qui ajoute sur la ligne suivant « Le chat » « Hoppy »
 
- 
+![alt text](https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/ETAPE%203.png)
 
 ## Étape 4 : Ajouter des données sur une ligne avec la fonction APPENDROW
 
