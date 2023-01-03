@@ -64,4 +64,4 @@ De plus, ajouter un bouton « Supprimer » qui devra supprimer via une recherche
 
 Voici un exemple de la mise en forme du Formulaire
 
-<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/EXEMPLE.png" width="300"/>      
+<img src="https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/EXEMPLE.png" />      
