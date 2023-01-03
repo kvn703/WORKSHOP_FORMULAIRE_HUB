@@ -11,6 +11,8 @@ Avoir à disposition un compte Google ou Microsoft pour faire ce Workshop.
 ## Étape 1 :
 
 Aller sur https://docs.google.com/spreadsheets et crée une nouvelle feuille de calcul « INFO » et créé de colonne (Nom Prénom) en position A1 et B2 et en dessous mettre votre nom prénom.
+
+![alt text](http://url/to/img.png)
  
 
 ## Étape 2 : Récupérer une donnée sur la feuille de calcul en utilisant la fonction GETRANGE
