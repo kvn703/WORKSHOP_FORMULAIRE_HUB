@@ -63,3 +63,5 @@ ATTENTION, on ne peut pas ajouter deux mêmes personnes.
 De plus, ajouter un bouton « Supprimer » qui devra supprimer via une recherche de nom et prénom la ligne dans la feuille « Base de données ». 
 
 Voici un exemple de la mise en forme du Formulaire
+
+![alt text](https://github.com/kvn703/WORKSHOP_FORMULAIRE_HUB/blob/main/EXEMPLE.png)
